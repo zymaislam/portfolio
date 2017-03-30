@@ -17,7 +17,7 @@ Right now we are turning our several months-long data collection into investigat
 
 Run `fitness.r` on .........
 
-* ==searchable-db.md== is a sample post with real data. We aim to turn all of our data into a searchable database and release it to the general public so as to bring public awareness and help consumers make better choices about their health. The database will continuously publish alerts for updates in the form of posts such the sample below. All data re
+* `searchable-db.md` is a sample post with real data. We aim to turn all of our data into a searchable database and release it to the general public so as to bring public awareness and help consumers make better choices about their health. The database will continuously publish alerts for updates in the form of posts such the sample in this file. 
 
 
 
