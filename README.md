@@ -11,11 +11,11 @@ Right now we are turning our several months-long data collection into investigat
 
 **What's in this repo:**
 
-* ==ocr.py== is an application for OCR 
+* `ocr.py` is an application for OCR 
 
-* ==fitness.r== is a code used to analyze a dataset on fake health certificates being handed out to migrant workers from Bangladesh. The law enforcers raided several hospitals dedicated to running diagnostic tests for migrant workers and providing them with health certification. Upon investigation it was found that the diagnostic centers were not equipped with equipment or personnel to do the tests, and many were using expried diagnostic reagents. These tests included communicable diseases like AIDS, TB, malaria. We collected data about how many people they sent out in such a way, and to which countries over how much time. This was an attempt to understand how diseases spread globally. 
+* `fitness.r` is a code used to analyze a dataset on fake health certificates being handed out to migrant workers from Bangladesh. The law enforcers raided several hospitals dedicated to running diagnostic tests for migrant workers and providing them with health certification. Upon investigation it was found that the diagnostic centers were not equipped with equipment or personnel to do the tests, and many were using expried diagnostic reagents. These tests included communicable diseases like AIDS, TB, malaria. We collected data about how many people they sent out in such a way, and to which countries over how much time. This was an attempt to understand how diseases spread globally. 
 
-Run ==fitness.r=== on .........
+Run `fitness.r` on .........
 
 * ==searchable-db.md== is a sample post with real data. We aim to turn all of our data into a searchable database and release it to the general public so as to bring public awareness and help consumers make better choices about their health. The database will continuously publish alerts for updates in the form of posts such the sample below. All data re
 
