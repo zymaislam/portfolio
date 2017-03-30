@@ -20,7 +20,9 @@ If you are working in the hospitals listed, check how much you may have spent on
 | Noorjahan Hospital Sylhet | 19/11/2015 - 29/06/2016	| C-Reactive Protein      | 1200               | Tk 195000      |
 | UTFB                      | 26/04/2016 - 10/10/2016 | Hemoglobin (SdA1c)      | 270                | Tk 195000      |
 | Unitech                   | 12/06/2016              | Hemoglobin (SdA1c)      | 120                | Tk 195000      |
-| Vision Health Care        | 03/04/2016 - 11/08/2016 | C-Reactive Protein/Glycated Hemoglobin| 120                | Tk 195000  |
+| Vision Health Care        | 03/04/2016 - 11/08/2016 | C-Reactive Protein/Glycated Hemoglobin| 120                | Tk 195000 |
+
+
 One of the largest hospitals in the city, and ironically enough, the hospital run by the law enforcers themselves, Central Police Hospital, was found to be a regular customer of Vietech. The distributor sold them Tk 1,950,00 worth of reagents between February and September.
 
 “We acquired our equipment from Vietech, so unfortunately we have been getting a lot of reagents from them too, to fit the machines,” said  Dr Golam Quraishi, who heads the diagnostics department of the hospital. According to the sales invoices the hospital has used 750 reagents from them.
