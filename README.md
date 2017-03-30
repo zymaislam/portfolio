@@ -11,6 +11,8 @@ Right now we are turning our several months-long data collection into investigat
 
 **What's in this repo:**
 
+Three samples of the kind of analysis we are doing. They are all being used in the production of investigative reports
+
 * `ocr.py` is an application for OCR 
 
 * `fitness.r` is a code used to analyze a dataset on fake health certificates being handed out to migrant workers from Bangladesh. The law enforcers raided several hospitals dedicated to running diagnostic tests for migrant workers and providing them with health certification. Upon investigation it was found that the diagnostic centers were not equipped with equipment or personnel to do the tests, and many were using expried diagnostic reagents. These tests included communicable diseases like AIDS, TB, malaria. We collected data about how many people they sent out in such a way, and to which countries over how much time. This was an attempt to understand how diseases spread globally. 
