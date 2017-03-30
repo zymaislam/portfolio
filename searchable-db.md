@@ -18,6 +18,6 @@ If you are working in the hospitals listed, check how much you may have spent on
 | Ibn Sina Sylhet           | 06/02/2016              | Glycated Hemoglobin     | N/A                | Tk 195000      |
 | Monowara General Hospital | 26/07/2016              | Hemoglobin (SdA1c)      | 40                 | Tk 195000      |
 | Noorjahan Hospital Sylhet | 19/11/2015 - 29/06/2016	| C-Reactive Protein      | 1200               | Tk 195000      |
-| UTFB                      | 06/02/2016              | Hemoglobin (SdA1c)      | 270                | Tk 195000      |
-| Unitech                   | 06/02/2016              | Hemoglobin (SdA1c)      | 120                | Tk 195000      |
+| UTFB                      | 26/04/2016 - 10/10/2016 | Hemoglobin (SdA1c)      | 270                | Tk 195000      |
+| Unitech                   | 12/06/2016              | Hemoglobin (SdA1c)      | 120                | Tk 195000      |
 | Vision Health Care        | 03/04/2016 - 11/08/2016 | C-Reactive Protein/Glycated Hemoglobin| 120                | Tk 195000  |
