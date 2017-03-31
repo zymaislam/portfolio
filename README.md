@@ -13,11 +13,13 @@ Right now we are turning our several months-long data collection into investigat
 
 Three samples of the kind of analysis we are doing. They are all being used in the production of investigative reports
 
-* `ocr.py` is an application for OCR 
+* `ocr.py` is an example script that extracts Bengali text from pdf files with Bengali characters in it. Scripts like these are largely our main analytical tools. We rarely, if ever find digital data when doing data collection - we mostly have to rely on scanned images, pdfs, word documents. They are also in Bengali. 
+  
+  `ocr.py` is powered by Tesseract. Tesseract is one of the only optical character recognition (OCR) packages available that can be used to recognize Bengali characters from images. 
 
-* `fitness.r` is a code used to analyze a dataset on fake health certificates being handed out to migrant workers from Bangladesh. The law enforcers raided several hospitals dedicated to running diagnostic tests for migrant workers and providing them with health certification. Upon investigation it was found that the diagnostic centers were not equipped with equipment or personnel to do the tests, and many were using expried diagnostic reagents. These tests included communicable diseases like AIDS, TB, malaria. We collected data about how many people they sent out in such a way, and to which countries over how much time. This was an attempt to understand how diseases spread globally. 
+* `preprocess.r` is a code used to analyze a dataset on fake health certificates being handed out to migrant workers from Bangladesh. The law enforcers raided several hospitals dedicated to running diagnostic tests for migrant workers and providing them with health certification. Upon investigation it was found that the diagnostic centers were not equipped with equipment or personnel to do the tests, and many were using expried diagnostic reagents. These tests included communicable diseases like AIDS, TB, malaria. We collected data about how many people they sent out in such a way, and to which countries over how much time. This was an attempt to understand how diseases spread globally. 
 
-Run `fitness.r` on .........
+  `preprocess.r` was written in R 3.3.2 
 
 * `searchable-db.md` is a sample post with real data. We aim to turn all of our data into a searchable database and release it to the general public so as to bring public awareness and help consumers make better choices about their health. The database will continuously publish alerts for updates in the form of posts such the sample in this file. 
 
