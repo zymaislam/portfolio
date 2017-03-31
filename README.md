@@ -16,6 +16,8 @@ Three samples of the kind of analysis we are doing. They are all being used in t
 * `ocr.py` is an example script that extracts Bengali text from pdf files with Bengali characters in it. Scripts like these are largely our main analytical tools. We rarely, if ever find digital data when doing data collection - we mostly have to rely on scanned images, pdfs, word documents. They are also in Bengali. 
   
   `ocr.py` is powered by Tesseract. Tesseract is one of the only optical character recognition (OCR) packages available that can be used to recognize Bengali characters from images. 
+  
+  `tesstest.pdf` is a pdf file of a sales invoice collected from a pharmaceutical factory raided for massive violations. By analyzing the invoices we can find out who the affected populations are. It is not usually possible to do this manually because one company can have thousands of invoices. That is where this code comes in handy. The output file is included in the repo and named `out.txt`
 
 * `preprocess.r` is a code used to analyze a dataset on fake health certificates being handed out to migrant workers from Bangladesh. The law enforcers raided several hospitals dedicated to running diagnostic tests for migrant workers and providing them with health certification. Upon investigation it was found that the diagnostic centers were not equipped with equipment or personnel to do the tests, and many were using expried diagnostic reagents. These tests included communicable diseases like AIDS, TB, malaria. We collected data about how many people they sent out in such a way, and to which countries over how much time. This was an attempt to understand how diseases spread globally. 
 
